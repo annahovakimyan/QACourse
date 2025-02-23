@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f84641ce-c37e-456d-88db-e483a03a5389" name="Changes" comment="ATM Simulator" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ATMSimulator" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;annahovakimyan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/annahovakimyan/QACourse&quot;,
+    &quot;accountId&quot;: &quot;ce971ea0-ad65-4b00-b271-b974102d1bc3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sXYtusaYdLWS1pvKmVN1zL0EpQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ATMSimulator.executor": "Run",
+    "Application.AddThreeDigitNumber.executor": "Run",
+    "Application.AreaCircle.executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.AverageCalculator.executor": "Run",
+    "Application.ConsecutiveCheck.executor": "Run",
+    "Application.DayNightChecker.executor": "Run",
+    "Application.EvenChecker.executor": "Run",
+    "Application.EvenOddCounter.executor": "Run",
+    "Application.Exponent.executor": "Run",
+    "Application.GradeToWords.executor": "Run",
+    "Application.GuessTheNumberGame.executor": "Run",
+    "Application.Inte.executor": "Run",
+    "Application.IsEvenOrNot.executor": "Run",
+    "Application.LearntoScan.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Perimeter.executor": "Run",
+    "Application.PrimitiveExamples.executor": "Run",
+    "Application.ReverseThreeDigitNumber.executor": "Run",
+    "Application.RockPaperScissors.executor": "Run",
+    "Application.RollerCoasterRide.executor": "Run",
+    "Application.ScannerExample.executor": "Run",
+    "Application.SimpleMathQuiz.executor": "Run",
+    "Application.SmallestNumber.executor": "Run",
+    "Application.SumTwoIntegers.executor": "Run",
+    "Application.TemperatureConverter.executor": "Run",
+    "Application.TriangleAreaCalculator.executor": "Run",
+    "Application.VirtualDiceRoller.executor": "Run",
+    "Application.getMaxValue.executor": "Run",
+    "Application.org.example.Main.executor": "Run",
+    "Application.seasons.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "Shelf.Project.Settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ATMSimulator">
+    <configuration name="ATMSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATMSimulator" />
+      <module name="QA_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenOddCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOddCounter" />
+      <module name="QA_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMathQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleMathQuiz" />
+      <module name="QA_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemperatureConverter" />
+      <module name="QA_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualDiceRoller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualDiceRoller" />
+      <module name="QA_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VirtualDiceRoller" />
+        <item itemvalue="Application.TemperatureConverter" />
+        <item itemvalue="Application.SimpleMathQuiz" />
+        <item itemvalue="Application.EvenOddCounter" />
+        <item itemvalue="Application.ATMSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84641ce-c37e-456d-88db-e483a03a5389" name="Changes" comment="" />
+      <created>1738603605393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738603605393</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ATM Simulator">
+      <option name="closed" value="true" />
+      <created>1740306384972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740306384972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ATM Simulator">
+      <option name="closed" value="true" />
+      <created>1740306551947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740306551947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ATM Simulator">
+      <option name="closed" value="true" />
+      <created>1740306562527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740306562527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ATM Simulator" />
+    <option name="LAST_COMMIT_MESSAGE" value="ATM Simulator" />
+  </component>
+</project>

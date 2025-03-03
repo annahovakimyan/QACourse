@@ -7,7 +7,7 @@ public class TemperatureConverter {
 
         System.out.println("Welcome to the Temperature Converter!");
 
-        while (choice == "yes") {
+        while (choice.equals("yes")) {//do it in do while 
             System.out.println("Select the conversion type:");
             System.out.println("1: Celsius to Fahrenheit");
             System.out.println("2: Fahrenheit to Celsius");
